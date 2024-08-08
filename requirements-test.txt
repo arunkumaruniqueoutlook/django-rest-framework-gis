@@ -4,3 +4,4 @@ contexttimer
 # QA checks
 openwisp-utils[qa]~=1.0.0
 packaging~=20.4
+django>=4.2.15 # not directly required, pinned by Snyk to avoid a vulnerability
