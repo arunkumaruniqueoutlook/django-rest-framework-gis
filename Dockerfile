@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.12.0a1-alpine
 
 # postgresql-client is required by psql
 # postgresql-dev musl-dev gcc are required by psycopg
